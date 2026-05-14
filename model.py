@@ -1,0 +1,3 @@
+
+class TrajectoryModel:
+    pass
