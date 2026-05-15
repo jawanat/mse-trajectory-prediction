@@ -37,7 +37,11 @@ Dzięki zastosowaniu `uv`, konfiguracja środowiska jest szybka i powtarzalna:
 ```bash
    pip install uv
 ```
-2. Pobierz wirtualne środowisko wraz z wykorzystywanymi bibliotekami:
+2. Sklonuj repozytorium:
+```bash
+    git clone https://github.com/jawanat/mse-trajectory-prediction.git
+```
+3. Pobierz wirtualne środowisko wraz z wykorzystywanymi bibliotekami:
 ```bash
     uv sync
 ```
