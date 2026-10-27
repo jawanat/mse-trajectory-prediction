@@ -1,6 +1,6 @@
 import matplotlib.pyplot as pl  
 import numpy as np 
-from generacja_poczatkowych_polozen import lokalizacja_krolika
+from src.generacja_poczatkowych_polozen import lokalizacja_krolika
 
 krolik = lokalizacja_krolika(poczatkowy_x=0.0, poczatkowy_y=0.0, speed=3.0)
 
